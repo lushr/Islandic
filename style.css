@@ -5,3 +5,9 @@
 .card-content{transition:transform .24s ease,opacity .24s ease;transform-origin:center}
 .card.turning .card-content{transform:rotateY(80deg);opacity:.3}
 @media(prefers-reduced-motion:reduce){.card,.card-content{transition:none}.card.turning .card-content{transform:none;opacity:1}}
+
+/* Keep both faces the same size and distinguish the play control. */
+.card{height:340px;min-height:340px;max-height:340px;overflow:hidden}
+.card-content{min-height:0;overflow-y:auto}
+.play{background:#e9d9f7}
+@media(max-height:540px){.card{height:300px;min-height:300px;max-height:300px}}
