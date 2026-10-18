@@ -66,77 +66,77 @@
     "id": 10,
     "icelandic": "Ísland",
     "english": "Iceland",
-    "audio": "",
+    "audio": "audio/speech 10.mp3",
     "pronunciation": "EES-lant"
   },
   {
     "id": 11,
     "icelandic": "Íslenska",
     "english": "Icelandic",
-    "audio": "",
+    "audio": "audio/speech 11.mp3",
     "pronunciation": "EES-lens-ka"
   },
   {
     "id": 12,
     "icelandic": "Reykjavík",
     "english": "Capital of Iceland",
-    "audio": "",
+    "audio": "audio/speech 12.mp3",
     "pronunciation": "RAYK-ya-veek"
   },
   {
     "id": 13,
     "icelandic": "Keflavík",
     "english": "International airport",
-    "audio": "",
+    "audio": "audio/speech 13.mp3",
     "pronunciation": "KEP-la-veek"
   },
   {
     "id": 14,
     "icelandic": "Daði Freyr",
     "english": "Musician",
-    "audio": "",
+    "audio": "audio/speech 14.mp3",
     "pronunciation": "DAH-thi FRAYR"
   },
   {
     "id": 15,
     "icelandic": "Eldborg",
     "english": "Concert hall",
-    "audio": "",
+    "audio": "audio/speech 15.mp3",
     "pronunciation": "ELT-bork"
   },
   {
     "id": 16,
     "icelandic": "Aðalstræti",
     "english": "Main Street",
-    "audio": "",
+    "audio": "audio/speech 16.mp3",
     "pronunciation": "AH-thal-stry-tee"
   },
   {
     "id": 17,
     "icelandic": "Laugavegur",
     "english": "Main shopping street",
-    "audio": "",
+    "audio": "audio/speech 17.mp3",
     "pronunciation": "LOY-ga-veh-gur"
   },
   {
     "id": 18,
     "icelandic": "Skólavörðustígur",
     "english": "Rainbow Street",
-    "audio": "",
+    "audio": "audio/speech 18.mp3",
     "pronunciation": "SKOH-la-vur-thus-TEE-gur"
   },
   {
     "id": 19,
     "icelandic": "12 Tónar",
     "english": "Independent record shop and café",
-    "audio": "",
+    "audio": "audio/speech 19.mp3",
     "pronunciation": "TOHLV TOH-nar"
   },
   {
     "id": 20,
     "icelandic": "Smekkleysa",
     "english": "Independent record shop",
-    "audio": "",
+    "audio": "audio/speech 20.mp3",
     "pronunciation": "SMEHK-lay-sa"
   }
 ]
