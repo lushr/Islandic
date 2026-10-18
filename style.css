@@ -30,3 +30,8 @@ nav .counter{margin:0;flex:1;text-align:center}
 .speed-button{width:48px;height:48px;font-size:1.6rem;background:#fff;padding:4px}
 .speed-button:disabled{opacity:.35;cursor:default}
 .speed-label{min-width:42px;font-weight:800;font-size:1rem;color:#36576b}
+
+/* Large, clearly bounded previous/next tap targets. */
+nav{gap:14px;margin:18px 4px 0}
+nav button{width:76px;min-width:76px;height:64px;background:#fff;border:2px solid #1b2730;border-radius:12px;box-shadow:3px 3px 0 #1b2730;font-size:1.8rem;touch-action:manipulation}
+nav button:active:not(:disabled){transform:translate(2px,2px);box-shadow:1px 1px 0 #1b2730}
