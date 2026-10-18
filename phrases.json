@@ -61,5 +61,82 @@
     "english": "Grandpa at Á has a ewe in a river.",
     "audio": "audio/speech 9.mp3",
     "pronunciation": "OW-ee ow OW ow OW ee-n OW"
+  },
+  {
+    "id": 10,
+    "icelandic": "Ísland",
+    "english": "Iceland",
+    "audio": "",
+    "pronunciation": "EES-lant"
+  },
+  {
+    "id": 11,
+    "icelandic": "Íslenska",
+    "english": "Icelandic",
+    "audio": "",
+    "pronunciation": "EES-lens-ka"
+  },
+  {
+    "id": 12,
+    "icelandic": "Reykjavík",
+    "english": "Capital of Iceland",
+    "audio": "",
+    "pronunciation": "RAYK-ya-veek"
+  },
+  {
+    "id": 13,
+    "icelandic": "Keflavík",
+    "english": "International airport",
+    "audio": "",
+    "pronunciation": "KEP-la-veek"
+  },
+  {
+    "id": 14,
+    "icelandic": "Daði Freyr",
+    "english": "Musician",
+    "audio": "",
+    "pronunciation": "DAH-thi FRAYR"
+  },
+  {
+    "id": 15,
+    "icelandic": "Eldborg",
+    "english": "Concert hall",
+    "audio": "",
+    "pronunciation": "ELT-bork"
+  },
+  {
+    "id": 16,
+    "icelandic": "Aðalstræti",
+    "english": "Main Street — your hotel's street",
+    "audio": "",
+    "pronunciation": "AH-thal-stry-tee"
+  },
+  {
+    "id": 17,
+    "icelandic": "Laugavegur",
+    "english": "Main shopping street",
+    "audio": "",
+    "pronunciation": "LOY-ga-veh-gur"
+  },
+  {
+    "id": 18,
+    "icelandic": "Skólavörðustígur",
+    "english": "Rainbow Street",
+    "audio": "",
+    "pronunciation": "SKOH-la-vur-thus-TEE-gur"
+  },
+  {
+    "id": 19,
+    "icelandic": "12 Tónar",
+    "english": "Independent record shop and café",
+    "audio": "",
+    "pronunciation": "TOHLV TOH-nar"
+  },
+  {
+    "id": 20,
+    "icelandic": "Smekkleysa",
+    "english": "Independent record shop",
+    "audio": "",
+    "pronunciation": "SMEHK-lay-sa"
   }
 ]
