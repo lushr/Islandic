@@ -3,48 +3,56 @@
     "id": 1,
     "icelandic": "Heimskur útlendingur! Afsakið!",
     "english": "Stupid foreigner! Sorry!",
-    "audio": "audio/speech.mp3"
+    "audio": "audio/speech.mp3",
+    "pronunciation": "HEYM-skur OOT-len-ding-ur! AV-sa-kith!"
   },
   {
     "id": 2,
     "icelandic": "Afsakið!",
     "english": "Excuse me! / Sorry!",
-    "audio": "audio/speech 2.mp3"
+    "audio": "audio/speech 2.mp3",
+    "pronunciation": "AV-sa-kith!"
   },
   {
     "id": 3,
     "icelandic": "Sjáumst seinna",
     "english": "See you later",
-    "audio": "audio/speech 3.mp3"
+    "audio": "audio/speech 3.mp3",
+    "pronunciation": "SYOWMST SAY-na"
   },
   {
     "id": 4,
     "icelandic": "Hvernig gengur?",
     "english": "How’s it going?",
-    "audio": "audio/speech 4.mp3"
+    "audio": "audio/speech 4.mp3",
+    "pronunciation": "KVER-nikh GENG-ur?"
   },
   {
     "id": 5,
     "icelandic": "Fyrirgefðu",
     "english": "Sorry / Forgive me",
-    "audio": "audio/speech 8.mp3"
+    "audio": "audio/speech 8.mp3",
+    "pronunciation": "FIR-ir-gev-thu"
   },
   {
     "id": 6,
     "icelandic": "Finnst þér þessi hljómsveit góð?",
     "english": "Do you like this band?",
-    "audio": "audio/speech 5.mp3"
+    "audio": "audio/speech 5.mp3",
+    "pronunciation": "FINST thyair THES-si HLYOHM-svayt GOHTH?"
   },
   {
     "id": 7,
     "icelandic": "Svo gott!",
     "english": "So good!",
-    "audio": "audio/speech 6.mp3"
+    "audio": "audio/speech 6.mp3",
+    "pronunciation": "SVOH GOHT!"
   },
   {
     "id": 8,
     "icelandic": "Ekki fyrir mig",
     "english": "Not for me / Not my thing",
-    "audio": "audio/speech 7.mp3"
+    "audio": "audio/speech 7.mp3",
+    "pronunciation": "EH-ki FIR-ir mikh"
   }
 ]
