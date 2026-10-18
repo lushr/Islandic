@@ -11,3 +11,8 @@
 .card-content{min-height:0;overflow-y:auto}
 .play{background:#e9d9f7}
 @media(max-height:540px){.card{height:300px;min-height:300px;max-height:300px}}
+
+/* Taller fixed-size cards; never clip long pronunciation guides. */
+.card{height:460px;min-height:460px;max-height:none;overflow:visible}
+.card-content{overflow:visible;min-height:0}
+@media(max-height:540px){.card{height:460px;min-height:460px;max-height:none}}
