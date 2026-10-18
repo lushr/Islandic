@@ -16,3 +16,11 @@
 .card{height:460px;min-height:460px;max-height:none;overflow:visible}
 .card-content{overflow:visible;min-height:0}
 @media(max-height:540px){.card{height:460px;min-height:460px;max-height:none}}
+
+/* Align the text consistently at the top on both faces. */
+.card{justify-content:flex-start}
+.card-content{flex:1;display:block;width:100%;padding-top:12px}
+.face{text-align:center}
+.face .eyebrow{margin-bottom:18px}
+nav{align-items:center}
+nav .counter{margin:0;flex:1;text-align:center}
