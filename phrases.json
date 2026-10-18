@@ -54,5 +54,12 @@
     "english": "Not for me / Not my thing",
     "audio": "audio/speech 7.mp3",
     "pronunciation": "EH-ki FIR-ir mikh"
+  },
+  {
+    "id": 9,
+    "icelandic": "Ái á Á á á í á.",
+    "english": "Grandpa at Á has a ewe in a river.",
+    "audio": "",
+    "pronunciation": "OW-ee ow OW ow OW ee-n OW"
   }
 ]
