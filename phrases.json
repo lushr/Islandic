@@ -138,5 +138,12 @@
     "english": "Independent record shop",
     "audio": "audio/speech 20.mp3",
     "pronunciation": "SMEHK-lay-sa"
+  },
+  {
+    "id": 21,
+    "icelandic": "Fear mór sneachta ina sheasamh sa pháirc.",
+    "english": "A big snowman standing in a field.",
+    "audio": "audio/irish-snowman.mp3",
+    "pronunciation": "Far mor schnakta, ina hassa sa fark"
   }
 ]
