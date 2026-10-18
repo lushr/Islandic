@@ -1,0 +1,16 @@
+{
+  "name": "Islandic",
+  "short_name": "Islandic",
+  "description": "Icelandic phrase flashcards",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#79C9FA",
+  "theme_color": "#79C9FA",
+  "icons": [
+    {
+      "src": "snowflake.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
