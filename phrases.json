@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "icelandic": "Heimskur útlendingur! Afsakið!",
+    "english": "Stupid foreigner! Sorry!",
+    "audio": "audio/01.mp3"
+  },
+  {
+    "id": 2,
+    "icelandic": "Afsakið!",
+    "english": "Excuse me! / Sorry!",
+    "audio": "audio/02.mp3"
+  },
+  {
+    "id": 3,
+    "icelandic": "Sjáumst seinna",
+    "english": "See you later",
+    "audio": "audio/03.mp3"
+  },
+  {
+    "id": 4,
+    "icelandic": "Hvernig gengur?",
+    "english": "How’s it going?",
+    "audio": "audio/04.mp3"
+  },
+  {
+    "id": 5,
+    "icelandic": "Fyrirgefðu",
+    "english": "Sorry / Forgive me",
+    "audio": "audio/05.mp3"
+  },
+  {
+    "id": 6,
+    "icelandic": "Finnst þér þessi hljómsveit góð?",
+    "english": "Do you like this band?",
+    "audio": "audio/06.mp3"
+  },
+  {
+    "id": 7,
+    "icelandic": "Svo gott!",
+    "english": "So good!",
+    "audio": "audio/07.mp3"
+  },
+  {
+    "id": 8,
+    "icelandic": "Ekki fyrir mig",
+    "english": "Not for me / Not my thing",
+    "audio": "audio/08.mp3"
+  }
+]
