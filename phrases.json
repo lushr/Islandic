@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "icelandic": "Heimskur útlendingur! Afsakið!",
-    "english": "Stupid foreigner! Sorry!",
-    "audio": "audio/speech.mp3",
-    "pronunciation": "HEYM-skur OOT-len-ding-ur! AV-sa-kith!"
-  },
-  {
     "id": 2,
     "icelandic": "Afsakið!",
     "english": "Excuse me! / Sorry!",
@@ -54,6 +47,13 @@
     "english": "Not for me / Not my thing",
     "audio": "audio/speech 7.mp3",
     "pronunciation": "EH-ki FIR-ir mikh"
+  },
+  {
+    "id": 1,
+    "icelandic": "Heimskur útlendingur! Afsakið!",
+    "english": "Stupid foreigner! Sorry!",
+    "audio": "audio/speech.mp3",
+    "pronunciation": "HEYM-skur OOT-len-ding-ur! AV-sa-kith!"
   },
   {
     "id": 9,
