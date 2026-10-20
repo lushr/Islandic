@@ -79,14 +79,14 @@
   {
     "id": 12,
     "icelandic": "Reykjavík",
-    "english": "Capital of Iceland",
+    "english": "Reykjavík — Capital of Iceland",
     "audio": "audio/speech 12.mp3",
     "pronunciation": "RAYK-ya-veek"
   },
   {
     "id": 13,
     "icelandic": "Keflavík",
-    "english": "International airport",
+    "english": "Keflavík — International airport",
     "audio": "audio/speech 13.mp3",
     "pronunciation": "KEP-la-veek"
   },
@@ -100,42 +100,42 @@
   {
     "id": 15,
     "icelandic": "Eldborg",
-    "english": "Concert hall",
+    "english": "Eldborg — Concert hall",
     "audio": "audio/speech 15.mp3",
     "pronunciation": "ELT-bork"
   },
   {
     "id": 16,
     "icelandic": "Aðalstræti",
-    "english": "Main Street",
+    "english": "Aðalstræti — Main Street",
     "audio": "audio/speech 16.mp3",
     "pronunciation": "AH-thal-stry-tee"
   },
   {
     "id": 17,
     "icelandic": "Laugavegur",
-    "english": "Main shopping street",
+    "english": "Laugavegur — Main shopping street",
     "audio": "audio/speech 17.mp3",
     "pronunciation": "LOU-ga-veh-gur"
   },
   {
     "id": 18,
     "icelandic": "Skólavörðustígur",
-    "english": "Rainbow Street",
+    "english": "Skólavörðustígur — Rainbow Street",
     "audio": "audio/speech 18.mp3",
     "pronunciation": "SKOH-la-vur-thus-TEE-gur"
   },
   {
     "id": 19,
     "icelandic": "12 Tónar",
-    "english": "Independent record shop and café",
+    "english": "12 Tónar — Independent record shop and café",
     "audio": "audio/speech 19.mp3",
     "pronunciation": "TOHLV TOH-nar"
   },
   {
     "id": 20,
     "icelandic": "Smekkleysa",
-    "english": "Independent record shop",
+    "english": "Smekkleysa — Independent record shop",
     "audio": "audio/speech 20.mp3",
     "pronunciation": "SMEHK-lay-sa"
   },
