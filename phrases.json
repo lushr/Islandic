@@ -4,174 +4,239 @@
     "icelandic": "Afsakið!",
     "english": "Excuse me! / Sorry!",
     "audio": "audio/speech 2.mp3",
-    "pronunciation": "AV-sa-kith!"
-  },
-  {
-    "id": 3,
-    "icelandic": "Sjáumst seinna",
-    "english": "See you later",
-    "audio": "audio/speech 3.mp3",
-    "pronunciation": "SYOWMST SAY-na"
+    "pronunciation": "AV-sa-kith!",
+    "set": "A"
   },
   {
     "id": 4,
     "icelandic": "Hvernig gengur?",
     "english": "How’s it going?",
     "audio": "audio/speech 4.mp3",
-    "pronunciation": "KVER-nikh GENG-ur?"
+    "pronunciation": "KVER-nikh GENG-ur?",
+    "set": "A"
   },
   {
     "id": 5,
     "icelandic": "Fyrirgefðu",
     "english": "Sorry / Forgive me",
     "audio": "audio/speech 8.mp3",
-    "pronunciation": "FIR-ir-gev-thu"
+    "pronunciation": "FIR-ir-gev-thu",
+    "set": "A"
   },
   {
-    "id": 6,
-    "icelandic": "Finnst þér þessi hljómsveit góð?",
-    "english": "Do you like this band?",
-    "audio": "audio/speech 5.mp3",
-    "pronunciation": "FINST thyair THES-si HLYOHM-svayt GOHTH?"
+    "id": 22,
+    "icelandic": "Vinsamlegast",
+    "english": "Please",
+    "audio": "audio/Vinsamlegast.mp3",
+    "pronunciation": "VIN-sam-leh-gast",
+    "set": "A"
+  },
+  {
+    "id": 26,
+    "icelandic": "Takk",
+    "english": "Thank you",
+    "audio": "audio/Takk.mp3",
+    "pronunciation": "TAHK",
+    "set": "A"
+  },
+  {
+    "id": 23,
+    "icelandic": "Hvaða leið?",
+    "english": "Which way?",
+    "audio": "audio/Hvaða leið.mp3",
+    "pronunciation": "KVA-tha LAYTH?",
+    "set": "A"
+  },
+  {
+    "id": 24,
+    "icelandic": "Já",
+    "english": "Yes",
+    "audio": "audio/Ja.mp3",
+    "pronunciation": "YOW",
+    "set": "A"
+  },
+  {
+    "id": 25,
+    "icelandic": "Nei",
+    "english": "No",
+    "audio": "audio/Nei.mp3",
+    "pronunciation": "NAY",
+    "set": "A"
+  },
+  {
+    "id": 27,
+    "icelandic": "Bæ",
+    "english": "Bye",
+    "audio": "audio/Bæ.mp3",
+    "pronunciation": "BYE",
+    "set": "A"
+  },
+  {
+    "id": 3,
+    "icelandic": "Sjáumst seinna",
+    "english": "See you later",
+    "audio": "audio/speech 3.mp3",
+    "pronunciation": "SYOWMST SAY-na",
+    "set": "A"
+  },
+  {
+    "id": 29,
+    "icelandic": "Dásamlegt!",
+    "english": "Wonderful!",
+    "audio": "audio/Dásamlegt.mp3",
+    "pronunciation": "DAU-saam-lekht",
+    "set": "A"
+  },
+  {
+    "id": 30,
+    "icelandic": "Halló",
+    "english": "Hello",
+    "audio": "audio/Hallo.mp3",
+    "pronunciation": "hah-LOH",
+    "set": "A"
+  },
+  {
+    "id": 28,
+    "icelandic": "Fallegt!",
+    "english": "Beautiful!",
+    "audio": "audio/Fallegt.mp3",
+    "pronunciation": "FAH-lekt",
+    "set": "A"
   },
   {
     "id": 7,
     "icelandic": "Svo gott!",
     "english": "So good!",
     "audio": "audio/speech 6.mp3",
-    "pronunciation": "SVOH GOHT!"
-  },
-  {
-    "id": 8,
-    "icelandic": "Ekki fyrir mig",
-    "english": "Not for me / Not my thing",
-    "audio": "audio/speech 7.mp3",
-    "pronunciation": "EH-ki FIR-ir mikh"
+    "pronunciation": "SVOH GOHT!",
+    "set": "A"
   },
   {
     "id": 1,
     "icelandic": "Heimskur útlendingur! Afsakið!",
     "english": "Stupid foreigner! Sorry!",
     "audio": "audio/speech.mp3",
-    "pronunciation": "HEYM-skur OOT-len-ding-ur! AV-sa-kith!"
+    "pronunciation": "HEYM-skur OOT-len-ding-ur! AV-sa-kith!",
+    "set": "A"
   },
   {
     "id": 9,
     "icelandic": "Ái á Á á á í á.",
     "english": "Grandpa at Á has a ewe in a river.",
     "audio": "audio/speech 9.mp3",
-    "pronunciation": "OW-ee ow OW ow OW ee-n OW"
+    "pronunciation": "OW-ee ow OW ow OW ee-n OW",
+    "set": "A"
   },
   {
-    "id": 10,
-    "icelandic": "Ísland",
-    "english": "Iceland",
-    "audio": "audio/speech 10.mp3",
-    "pronunciation": "EES-lant"
+    "id": 6,
+    "icelandic": "Finnst þér þessi hljómsveit góð?",
+    "english": "Do you like this band?",
+    "audio": "audio/speech 5.mp3",
+    "pronunciation": "FINST thyair THES-si HLYOHM-svayt GOHTH?",
+    "set": "A"
   },
   {
-    "id": 11,
-    "icelandic": "Íslenska",
-    "english": "Icelandic",
-    "audio": "audio/speech 11.mp3",
-    "pronunciation": "EES-lens-ka"
-  },
-  {
-    "id": 12,
-    "icelandic": "Reykjavík",
-    "english": "Reykjavík — Capital of Iceland",
-    "audio": "audio/speech 12.mp3",
-    "pronunciation": "RAYK-ya-veek"
-  },
-  {
-    "id": 13,
-    "icelandic": "Keflavík",
-    "english": "Keflavík — International airport",
-    "audio": "audio/speech 13.mp3",
-    "pronunciation": "KEP-la-veek"
-  },
-  {
-    "id": 14,
-    "icelandic": "Daði Freyr",
-    "english": "Musician",
-    "audio": "audio/speech 14.mp3",
-    "pronunciation": "DAH-thi FRAYR"
-  },
-  {
-    "id": 15,
-    "icelandic": "Eldborg",
-    "english": "Eldborg — Concert hall",
-    "audio": "audio/speech 15.mp3",
-    "pronunciation": "ELT-bork"
-  },
-  {
-    "id": 16,
-    "icelandic": "Aðalstræti",
-    "english": "Aðalstræti — Main Street",
-    "audio": "audio/speech 16.mp3",
-    "pronunciation": "AH-thal-stry-tee"
-  },
-  {
-    "id": 17,
-    "icelandic": "Laugavegur",
-    "english": "Laugavegur — Main shopping street",
-    "audio": "audio/speech 17.mp3",
-    "pronunciation": "LOU-ga-veh-gur"
-  },
-  {
-    "id": 18,
-    "icelandic": "Skólavörðustígur",
-    "english": "Skólavörðustígur — Rainbow Street",
-    "audio": "audio/speech 18.mp3",
-    "pronunciation": "SKOH-la-vur-thus-TEE-gur"
-  },
-  {
-    "id": 19,
-    "icelandic": "12 Tónar",
-    "english": "12 Tónar — Independent record shop and café",
-    "audio": "audio/speech 19.mp3",
-    "pronunciation": "TOHLV TOH-nar"
-  },
-  {
-    "id": 20,
-    "icelandic": "Smekkleysa",
-    "english": "Smekkleysa — Independent record shop",
-    "audio": "audio/speech 20.mp3",
-    "pronunciation": "SMEHK-lay-sa"
+    "id": 8,
+    "icelandic": "Ekki fyrir mig",
+    "english": "Not for me / Not my thing",
+    "audio": "audio/speech 7.mp3",
+    "pronunciation": "EH-ki FIR-ir mikh",
+    "set": "A"
   },
   {
     "id": 21,
     "icelandic": "Fear mór sneachta ina sheasamh sa pháirc.",
     "english": "A big snowman standing in a field.",
     "audio": "audio/Irish-snowman.mp3",
-    "pronunciation": "far mohr SHNAKH-tuh in-uh HYASS-uv suh FAHRK"
+    "pronunciation": "far mohr SHNAKH-tuh in-uh HYASS-uv suh FAHRK",
+    "set": "A"
   },
   {
-    "id": 22,
-    "icelandic": "Vinsamlegast",
-    "english": "Please",
-    "audio": null,
-    "pronunciation": "VIN-sam-leh-gast"
+    "id": 10,
+    "icelandic": "Ísland",
+    "english": "Iceland",
+    "audio": "audio/speech 10.mp3",
+    "pronunciation": "EES-lant",
+    "set": "B"
   },
   {
-    "id": 23,
-    "icelandic": "Hvaða leið?",
-    "english": "Which way?",
-    "audio": null,
-    "pronunciation": "KVA-tha LAYTH?"
+    "id": 11,
+    "icelandic": "Íslenska",
+    "english": "Icelandic",
+    "audio": "audio/speech 11.mp3",
+    "pronunciation": "EES-lens-ka",
+    "set": "B"
   },
   {
-    "id": 24,
-    "icelandic": "Já",
-    "english": "Yes",
-    "audio": null,
-    "pronunciation": "YOW"
+    "id": 12,
+    "icelandic": "Reykjavík",
+    "english": "Reykjavík — Capital of Iceland",
+    "audio": "audio/speech 12.mp3",
+    "pronunciation": "RAYK-ya-veek",
+    "set": "B"
   },
   {
-    "id": 25,
-    "icelandic": "Nei",
-    "english": "No",
-    "audio": null,
-    "pronunciation": "NAY"
+    "id": 13,
+    "icelandic": "Keflavík",
+    "english": "Keflavík — International airport",
+    "audio": "audio/speech 13.mp3",
+    "pronunciation": "KEP-la-veek",
+    "set": "B"
+  },
+  {
+    "id": 14,
+    "icelandic": "Daði Freyr",
+    "english": "Musician",
+    "audio": "audio/speech 14.mp3",
+    "pronunciation": "DAH-thi FRAYR",
+    "set": "B"
+  },
+  {
+    "id": 15,
+    "icelandic": "Eldborg",
+    "english": "Eldborg — Concert hall",
+    "audio": "audio/speech 15.mp3",
+    "pronunciation": "ELT-bork",
+    "set": "B"
+  },
+  {
+    "id": 16,
+    "icelandic": "Aðalstræti",
+    "english": "Aðalstræti — Main Street",
+    "audio": "audio/speech 16.mp3",
+    "pronunciation": "AH-thal-stry-tee",
+    "set": "B"
+  },
+  {
+    "id": 17,
+    "icelandic": "Laugavegur",
+    "english": "Laugavegur — Main shopping street",
+    "audio": "audio/speech 17.mp3",
+    "pronunciation": "LOU-ga-veh-gur",
+    "set": "B"
+  },
+  {
+    "id": 18,
+    "icelandic": "Skólavörðustígur",
+    "english": "Skólavörðustígur — Rainbow Street",
+    "audio": "audio/speech 18.mp3",
+    "pronunciation": "SKOH-la-vur-thus-TEE-gur",
+    "set": "B"
+  },
+  {
+    "id": 19,
+    "icelandic": "12 Tónar",
+    "english": "12 Tónar — Independent record shop and café",
+    "audio": "audio/speech 19.mp3",
+    "pronunciation": "TOHLV TOH-nar",
+    "set": "B"
+  },
+  {
+    "id": 20,
+    "icelandic": "Smekkleysa",
+    "english": "Smekkleysa — Independent record shop",
+    "audio": "audio/speech 20.mp3",
+    "pronunciation": "SMEHK-lay-sa",
+    "set": "B"
   }
 ]
