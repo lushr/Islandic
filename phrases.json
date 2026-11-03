@@ -145,5 +145,33 @@
     "english": "A big snowman standing in a field.",
     "audio": "audio/Irish-snowman.mp3",
     "pronunciation": "far mohr SHNAKH-tuh in-uh HYASS-uv suh FAHRK"
+  },
+  {
+    "id": 22,
+    "icelandic": "Vinsamlegast",
+    "english": "Please",
+    "audio": null,
+    "pronunciation": "VIN-sam-leh-gast"
+  },
+  {
+    "id": 23,
+    "icelandic": "Hvaða leið?",
+    "english": "Which way?",
+    "audio": null,
+    "pronunciation": "KVA-tha LAYTH?"
+  },
+  {
+    "id": 24,
+    "icelandic": "Já",
+    "english": "Yes",
+    "audio": null,
+    "pronunciation": "YOW"
+  },
+  {
+    "id": 25,
+    "icelandic": "Nei",
+    "english": "No",
+    "audio": null,
+    "pronunciation": "NAY"
   }
 ]
