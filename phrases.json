@@ -166,6 +166,13 @@
     "set": "A"
   },
   {
+    "id": 40,
+    "icelandic": "Ertu íslenskur?",
+    "english": "Are you Icelandic? (to a man)",
+    "pronunciation": "ER-tu EES-len-skur?",
+    "set": "A"
+  },
+  {
     "id": 33,
     "icelandic": "Ég er frá Ástralíu.",
     "english": "I'm Australian.",
