@@ -152,6 +152,48 @@
     "set": "A"
   },
   {
+    "id": 31,
+    "icelandic": "Þetta er mitt.",
+    "english": "That is mine.",
+    "pronunciation": "THET-ta er MIT",
+    "set": "A"
+  },
+  {
+    "id": 32,
+    "icelandic": "Ertu íslensk?",
+    "english": "Are you Icelandic? (to a woman)",
+    "pronunciation": "ER-tu EES-lensk?",
+    "set": "A"
+  },
+  {
+    "id": 33,
+    "icelandic": "Ég er frá Ástralíu.",
+    "english": "I'm Australian.",
+    "pronunciation": "YEG er frow OWS-tra-lee-u",
+    "set": "A"
+  },
+  {
+    "id": 34,
+    "icelandic": "Skemmtu þér!",
+    "english": "Have fun!",
+    "pronunciation": "SKEM-tu thyair!",
+    "set": "A"
+  },
+  {
+    "id": 35,
+    "icelandic": "Ég skil.",
+    "english": "I understand.",
+    "pronunciation": "YEG skil",
+    "set": "A"
+  },
+  {
+    "id": 36,
+    "icelandic": "Ég skil ekki.",
+    "english": "I don't understand.",
+    "pronunciation": "YEG skil EH-ki",
+    "set": "A"
+  },
+  {
     "id": 10,
     "icelandic": "Ísland",
     "english": "Iceland",
@@ -238,33 +280,5 @@
     "audio": "audio/speech 20.mp3",
     "pronunciation": "SMEHK-lay-sa",
     "set": "B"
-  },
-  {
-    "id": 31,
-    "icelandic": "Þetta er mitt.",
-    "english": "That is mine.",
-    "pronunciation": "THET-ta er MIT",
-    "set": "A"
-  },
-  {
-    "id": 32,
-    "icelandic": "Ertu íslensk?",
-    "english": "Are you Icelandic? (to a woman)",
-    "pronunciation": "ER-tu EES-lensk?",
-    "set": "A"
-  },
-  {
-    "id": 33,
-    "icelandic": "Ég er frá Ástralíu.",
-    "english": "I'm Australian.",
-    "pronunciation": "YEG er frow OWS-tra-lee-u",
-    "set": "A"
-  },
-  {
-    "id": 34,
-    "icelandic": "Skemmtu þér!",
-    "english": "Have fun!",
-    "pronunciation": "SKEM-tu thyair!",
-    "set": "A"
   }
 ]
