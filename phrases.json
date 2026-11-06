@@ -156,112 +156,128 @@
     "icelandic": "Þetta er mitt.",
     "english": "That is mine.",
     "pronunciation": "THET-ta er MIT",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech22a.mp3"
   },
   {
     "id": 32,
     "icelandic": "Ertu íslensk?",
     "english": "Are you Icelandic? (to a woman)",
     "pronunciation": "ER-tu EES-lensk?",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech21.mp3"
   },
   {
     "id": 40,
     "icelandic": "Ertu íslenskur?",
     "english": "Are you Icelandic? (to a man)",
     "pronunciation": "ER-tu EES-len-skur?",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech22.mp3"
   },
   {
     "id": 33,
     "icelandic": "Ég er frá Ástralíu.",
     "english": "I'm Australian.",
     "pronunciation": "YEG er frow OWS-tra-lee-u",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech23.mp3"
   },
   {
     "id": 34,
     "icelandic": "Skemmtu þér!",
     "english": "Have fun!",
     "pronunciation": "SKEM-tu THYAIR!",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech24.mp3"
   },
   {
     "id": 35,
     "icelandic": "Ég skil.",
     "english": "I understand.",
     "pronunciation": "YEG SKIL",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech25.mp3"
   },
   {
     "id": 36,
     "icelandic": "Ég skil ekki.",
     "english": "I don't understand.",
     "pronunciation": "YEG SKIL EH-ki",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech26.mp3"
   },
   {
     "id": 37,
     "icelandic": "Ég veit ekki.",
     "english": "I don't know.",
     "pronunciation": "YEG VAYT EH-ki",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech27.mp3"
   },
   {
     "id": 38,
     "icelandic": "Ég elska þetta!",
     "english": "I love this!",
     "pronunciation": "YEG EL-ska THET-ta!",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech28.mp3"
   },
   {
     "id": 39,
     "icelandic": "Ég er þreytt. Alltaf þreytt.",
     "english": "I'm tired. Always tired.",
     "pronunciation": "YEG er THRAYHT. AHL-taf THRAYHT.",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech29.mp3"
   },
   {
     "id": 41,
     "icelandic": "Ég ætla að vera í rúminu í dag!",
     "english": "I'm staying in bed today!",
     "pronunciation": "YEG AYT-la ath VEH-ra ee ROO-mi-nu ee DAHK!",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech30.mp3"
   },
   {
     "id": 42,
     "icelandic": "Víkingar eru ekki til?!",
     "english": "Vikings aren't real?!",
     "pronunciation": "VEE-king-ar EH-ru EH-ki TIL?!",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech31.mp3"
   },
   {
     "id": 43,
     "icelandic": "Auðvitað hef ég lesið Íslendingasögurnar. Allar 53!",
     "english": "Of course I've read the sagas. All 53 of them.",
     "pronunciation": "OYTH-vi-tath hev YEG LES-ith EES-len-ding-a-SOH-gur-nar. AHT-lar FIMM-tiu og THRYAR!",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech32.mp3"
   },
   {
     "id": 44,
     "icelandic": "Auður er best! Hún er algjör töffari!",
     "english": "Auður is the best! She kicks ass!!",
     "pronunciation": "OY-thur er BEST! HOON er AL-gyer TOF-fa-ri!",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech33.mp3"
   },
   {
     "id": 45,
     "icelandic": "Hver er Björk?",
     "english": "Who is Björk?",
     "pronunciation": "KVER er BYERK?",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech34.mp3"
   },
   {
     "id": 46,
     "icelandic": "Ég er villt. Aftur.",
     "english": "I'm lost. Again.",
     "pronunciation": "YEG er VILT. AF-tur.",
-    "set": "A"
+    "set": "A",
+    "audio": "audio/speech35.mp3"
   },
   {
     "id": 10,
