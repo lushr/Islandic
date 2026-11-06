@@ -194,6 +194,20 @@
     "set": "A"
   },
   {
+    "id": 37,
+    "icelandic": "Ég veit ekki.",
+    "english": "I don't know.",
+    "pronunciation": "YEG vayt EH-ki",
+    "set": "A"
+  },
+  {
+    "id": 38,
+    "icelandic": "Ég elska þetta!",
+    "english": "I love this!",
+    "pronunciation": "YEG EL-ska THET-ta",
+    "set": "A"
+  },
+  {
     "id": 10,
     "icelandic": "Ísland",
     "english": "Iceland",
