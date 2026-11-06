@@ -208,6 +208,20 @@
     "set": "A"
   },
   {
+    "id": 39,
+    "icelandic": "Ég er þreytt.",
+    "english": "I'm tired.",
+    "pronunciation": "YEG er THRAYHT",
+    "set": "A"
+  },
+  {
+    "id": 40,
+    "icelandic": "Ég er alltaf þreytt.",
+    "english": "I'm always tired.",
+    "pronunciation": "YEG er AHL-taf THRAYHT",
+    "set": "A"
+  },
+  {
     "id": 10,
     "icelandic": "Ísland",
     "english": "Iceland",
