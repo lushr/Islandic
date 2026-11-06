@@ -157,7 +157,7 @@
     "english": "That is mine.",
     "pronunciation": "THET-ta er MIT",
     "set": "A",
-    "audio": "audio/speech22a.mp3"
+    "audio": "audio/speech20a.mp3"
   },
   {
     "id": 32,
@@ -165,15 +165,14 @@
     "english": "Are you Icelandic? (to a woman)",
     "pronunciation": "ER-tu EES-lensk?",
     "set": "A",
-    "audio": "audio/speech21.mp3"
+    "audio": "audio/speech 21.mp3"
   },
   {
     "id": 40,
     "icelandic": "Ertu íslenskur?",
     "english": "Are you Icelandic? (to a man)",
     "pronunciation": "ER-tu EES-len-skur?",
-    "set": "A",
-    "audio": "audio/speech22.mp3"
+    "set": "A"
   },
   {
     "id": 33,
@@ -181,7 +180,7 @@
     "english": "I'm Australian.",
     "pronunciation": "YEG er frow OWS-tra-lee-u",
     "set": "A",
-    "audio": "audio/speech23.mp3"
+    "audio": "audio/speech 23.mp3"
   },
   {
     "id": 34,
@@ -189,7 +188,7 @@
     "english": "Have fun!",
     "pronunciation": "SKEM-tu THYAIR!",
     "set": "A",
-    "audio": "audio/speech24.mp3"
+    "audio": "audio/speech 24.mp3"
   },
   {
     "id": 35,
@@ -197,7 +196,7 @@
     "english": "I understand.",
     "pronunciation": "YEG SKIL",
     "set": "A",
-    "audio": "audio/speech25.mp3"
+    "audio": "audio/speech 25.mp3"
   },
   {
     "id": 36,
@@ -205,7 +204,7 @@
     "english": "I don't understand.",
     "pronunciation": "YEG SKIL EH-ki",
     "set": "A",
-    "audio": "audio/speech26.mp3"
+    "audio": "audio/speech 26.mp3"
   },
   {
     "id": 37,
@@ -213,7 +212,7 @@
     "english": "I don't know.",
     "pronunciation": "YEG VAYT EH-ki",
     "set": "A",
-    "audio": "audio/speech27.mp3"
+    "audio": "audio/speech 27.mp3"
   },
   {
     "id": 38,
@@ -221,7 +220,7 @@
     "english": "I love this!",
     "pronunciation": "YEG EL-ska THET-ta!",
     "set": "A",
-    "audio": "audio/speech28.mp3"
+    "audio": "audio/speech 28.mp3"
   },
   {
     "id": 39,
@@ -229,7 +228,7 @@
     "english": "I'm tired. Always tired.",
     "pronunciation": "YEG er THRAYHT. AHL-taf THRAYHT.",
     "set": "A",
-    "audio": "audio/speech29.mp3"
+    "audio": "audio/speech 29.mp3"
   },
   {
     "id": 41,
@@ -237,7 +236,7 @@
     "english": "I'm staying in bed today!",
     "pronunciation": "YEG AYT-la ath VEH-ra ee ROO-mi-nu ee DAHK!",
     "set": "A",
-    "audio": "audio/speech30.mp3"
+    "audio": "audio/speech 30.mp3"
   },
   {
     "id": 42,
@@ -245,7 +244,7 @@
     "english": "Vikings aren't real?!",
     "pronunciation": "VEE-king-ar EH-ru EH-ki TIL?!",
     "set": "A",
-    "audio": "audio/speech31.mp3"
+    "audio": "audio/speech 31.mp3"
   },
   {
     "id": 43,
@@ -253,7 +252,7 @@
     "english": "Of course I've read the sagas. All 53 of them.",
     "pronunciation": "OYTH-vi-tath hev YEG LES-ith EES-len-ding-a-SOH-gur-nar. AHT-lar FIMM-tiu og THRYAR!",
     "set": "A",
-    "audio": "audio/speech32.mp3"
+    "audio": "audio/speech 32.mp3"
   },
   {
     "id": 44,
@@ -261,7 +260,7 @@
     "english": "Auður is the best! She kicks ass!!",
     "pronunciation": "OY-thur er BEST! HOON er AL-gyer TOF-fa-ri!",
     "set": "A",
-    "audio": "audio/speech33.mp3"
+    "audio": "audio/speech 33.mp3"
   },
   {
     "id": 45,
@@ -269,7 +268,7 @@
     "english": "Who is Björk?",
     "pronunciation": "KVER er BYERK?",
     "set": "A",
-    "audio": "audio/speech34.mp3"
+    "audio": "audio/speech 34.mp3"
   },
   {
     "id": 46,
@@ -277,7 +276,7 @@
     "english": "I'm lost. Again.",
     "pronunciation": "YEG er VILT. AF-tur.",
     "set": "A",
-    "audio": "audio/speech35.mp3"
+    "audio": "audio/speech 35.mp3"
   },
   {
     "id": 10,
