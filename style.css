@@ -59,3 +59,14 @@ nav button:active:not(:disabled){transform:translate(2px,2px);box-shadow:1px 1px
 
 /* Softer grey hairline around the white header lettering */
 .brand-text h1{-webkit-text-stroke:0.65px #687b85;text-shadow:0 1px 0 #687b85,1px 0 0 #687b85,-1px 0 0 #687b85}.brand-icon{filter:drop-shadow(.7px .7px 0 #687b85)}
+
+/* Unified soft slate-grey outlines and balanced header icon */
+:root{--outline:#687b85}
+.card,button,nav button,.audio-stack .speed-button{border-color:var(--outline);box-shadow:3px 3px 0 var(--outline)}
+.card{box-shadow:7px 7px 0 var(--outline)}
+.card.is-flipped{box-shadow:7px 7px 0 var(--outline)}
+.set-selector button[aria-pressed="true"]{box-shadow:3px 3px 0 var(--outline),inset 0 0 0 2px var(--outline)!important}
+button:active,nav button:active:not(:disabled){box-shadow:1px 1px 0 var(--outline)}
+.brand-icon{width:76px;height:76px;filter:drop-shadow(.7px .7px 0 var(--outline))}
+.brand-text h1{-webkit-text-stroke:.65px var(--outline);text-shadow:0 1px 0 var(--outline),1px 0 0 var(--outline),-1px 0 0 var(--outline)}
+@media(max-width:380px){.brand-icon{width:68px;height:68px}}
