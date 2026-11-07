@@ -50,3 +50,6 @@ nav button:active:not(:disabled){transform:translate(2px,2px);box-shadow:1px 1px
 /* Compact, secondary audio speed controls on narrow phones. */
 .audio-stack .speed-button{width:24px;height:27px;min-width:24px;padding:0;font-size:1rem;line-height:1;box-shadow:2px 2px 0 #1b2730;border-radius:7px}
 @media(max-width:390px){.audio-stack .speed-button{width:22px;min-width:22px;height:27px}}
+
+/* Branded header and individual pastel card-set colours */
+.app-header{display:flex;align-items:center;justify-content:center;gap:12px;margin:0 0 22px}.brand-icon{width:44px;height:44px;flex-shrink:0}.brand-text h1{font-size:clamp(1.45rem,5.8vw,2rem);line-height:1.05;letter-spacing:-.045em;margin:0;font-weight:900}.brand-text h1 span{font-size:.72em;letter-spacing:-.025em;font-weight:800}.brand-subtitle{font-size:.72rem;letter-spacing:.015em;margin:5px 0 0;color:#526572;font-weight:650}.sets-heading{text-align:center;margin-bottom:10px}.set-selector #setPhrases{background:#c8f0df}.set-selector #setFun{background:#e9d9f7}.set-selector #setPlaces{background:#ffe3bf}@media(max-width:380px){.brand-icon{width:36px;height:36px}.app-header{gap:8px}.brand-text h1{font-size:1.45rem}.brand-subtitle{font-size:.65rem}}
