@@ -172,7 +172,8 @@
     "icelandic": "Góða skemmtun!",
     "english": "Have fun!",
     "pronunciation": "GOH-tha SKEM-tun!",
-    "set": "phrases"
+    "set": "phrases",
+    "audio": "audio/speech 24.mp3"
   },
   {
     "id": 27,
@@ -211,7 +212,8 @@
     "icelandic": "Auðvitað hef ég lesið Íslendingasögurnar. Allar þúsund!",
     "english": "Of course I've read the sagas. All thousand!",
     "pronunciation": "OYTH-vi-tath hev YEG LES-ith EES-len-ding-a-SOH-gur-nar. AHT-lar THOO-sunt!",
-    "set": "fun"
+    "set": "fun",
+    "audio": "audio/speech 32.mp3"
   },
   {
     "id": 44,
