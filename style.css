@@ -56,3 +56,6 @@ nav button:active:not(:disabled){transform:translate(2px,2px);box-shadow:1px 1px
 
 /* White, high-contrast title and unboxed snowflake */
 .brand-text h1{color:#fff;font-size:clamp(2.1rem,8vw,3rem);letter-spacing:-.035em;-webkit-text-stroke:1.5px #1b2730;text-shadow:2px 2px 0 #1b2730, -1px -1px 0 #1b2730}.brand-icon{width:54px;height:54px;filter:drop-shadow(1.5px 1.5px 0 #1b2730) drop-shadow(-1px -1px 0 #1b2730)}@media(max-width:380px){.brand-text h1{font-size:2.1rem}.brand-icon{width:45px;height:45px}}
+
+/* Softer grey hairline around the white header lettering */
+.brand-text h1{-webkit-text-stroke:0.65px #687b85;text-shadow:0 1px 0 #687b85,1px 0 0 #687b85,-1px 0 0 #687b85}.brand-icon{filter:drop-shadow(.7px .7px 0 #687b85)}
