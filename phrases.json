@@ -224,6 +224,14 @@
     "audio": "audio/speech 33.mp3"
   },
   {
+    "id": 48,
+    "icelandic": "Ég nenni ekki.",
+    "english": "I can't be bothered.",
+    "pronunciation": "YEG NEN-ni EH-ki",
+    "set": "fun",
+    "audio": "audio/Nenni.mp3"
+  },
+  {
     "id": 39,
     "icelandic": "Ég er þreytt. Alltaf þreytt.",
     "english": "I'm tired. Always tired.",
