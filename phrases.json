@@ -169,11 +169,10 @@
   },
   {
     "id": 34,
-    "icelandic": "Skemmtu þér!",
+    "icelandic": "Góða skemmtun!",
     "english": "Have fun!",
-    "pronunciation": "SKEM-tu THYAIR!",
-    "set": "phrases",
-    "audio": "audio/speech 24.mp3"
+    "pronunciation": "GOH-tha SKEM-tun!",
+    "set": "phrases"
   },
   {
     "id": 27,
