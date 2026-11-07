@@ -304,6 +304,14 @@
     "set": "places"
   },
   {
+    "id": 47,
+    "icelandic": "Eyjafjallajökull",
+    "english": "Eyjafjallajökull — Volcano and glacier",
+    "audio": "audio/Volcano.mp3",
+    "pronunciation": "EY-ya-fyat-la-YÖ-kutl",
+    "set": "places"
+  },
+  {
     "id": 16,
     "icelandic": "Aðalstræti",
     "english": "Aðalstræti — Main Street",
