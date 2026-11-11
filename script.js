@@ -7,7 +7,7 @@ function chooseMode(mode){player.pause();if("speechSynthesis" in window)speechSy
 el("menuToggle").onclick=()=>{const p=el("menuPanel");p.hidden=!p.hidden;el("menuToggle").setAttribute("aria-expanded",String(!p.hidden))};
 document.querySelectorAll("#menuPanel button").forEach(b=>b.onclick=()=>chooseMode(b.dataset.mode));
 document.querySelectorAll("#euSets button").forEach(b=>b.onclick=()=>{euLang=b.dataset.lang;index=0;document.querySelectorAll("#euSets button").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));renderEuropa()});
-document.addEventListener("pointerdown",e=>{if(!e.target.closest(".eu-menu")){el("menuPanel").hidden=true;el("menuToggle").setAttribute("aria-expanded","false"}}});
+document.addEventListener("pointerdown",e=>{if(!e.target.closest(".eu-menu")){el("menuPanel").hidden=true;el("menuToggle").setAttribute("aria-expanded","false")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape")el("menuPanel").hidden=true});
 const oldRender=render;render=function(){if(appMode==="eu")renderEuropa();else oldRender()};
 const oldFlip=setFlip;setFlip=function(value){oldFlip(value);if(appMode==="eu")el("card").setAttribute("aria-label",value?"Translation side. Tap to see English":"English side. Tap to see translation")};
